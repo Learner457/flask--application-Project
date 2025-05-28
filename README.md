@@ -1,7 +1,8 @@
 # flask--application-Project
 
 Students proceed to upload their reports in student Dashboard
-Uploaded reports are shown in the admin dashboard with the upload time of each student along with link to the report and download option in admin dashboard
+Uploaded reports are shown in the admin dashboard with the upload time of each student along with link to the report and download option in admin dashboard.
+
 Main aim of this project is to integrate chatbot in admin application. This chatbot can retrieve uploaded student files, can read and understand the file and respond to Admin queries about student uploaded reports.
 
 🛠️ Tech Stack Overview:
