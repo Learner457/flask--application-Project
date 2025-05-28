@@ -6,13 +6,21 @@ Uploaded reports are shown in the admin dashboard with the upload time of each s
 Main aim of this project is to integrate chatbot in admin application. This chatbot can retrieve uploaded student files, can read and understand the file and respond to Admin queries about student uploaded reports.
 
 🛠️ Tech Stack Overview:
+
 Frontend:
+
 HTML, CSS, JavaScript
+
 Embedded chatbot (bottom-right) in admin dashboard
+
 Backend:
+
 Python (Flask)
+
 Firebase Authentication (frontend)
+
 Dropbox API (for storing and retrieving student PDFs)
+
 Postman (for API testing and debugging)
 
 AI / RAG Pipeline:
