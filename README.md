@@ -8,14 +8,14 @@ Main aim of this project is to integrate chatbot in admin application. This chat
 🛠️ Tech Stack Overview:
 
 **Frontend:**
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript,
 Embedded chatbot (bottom-right) in admin dashboard
 
 
 **Backend:**
-Python (Flask)
-Firebase Authentication (frontend)
-Dropbox API (for storing and retrieving student PDFs)
+Python (Flask),
+Firebase Authentication (frontend),
+Dropbox API (for storing and retrieving student PDFs),
 Postman (for API testing and debugging)
 
 
