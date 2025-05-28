@@ -7,25 +7,31 @@ Main aim of this project is to integrate chatbot in admin application. This chat
 
 🛠️ Tech Stack Overview:
 
-Frontend:
+**Frontend:**
 HTML, CSS, JavaScript
 Embedded chatbot (bottom-right) in admin dashboard
 
 
-Backend:
+**Backend:**
 Python (Flask)
 Firebase Authentication (frontend)
 Dropbox API (for storing and retrieving student PDFs)
 Postman (for API testing and debugging)
 
 
-AI / RAG Pipeline:
+**AI / RAG Pipeline:**
+
 LangChain
+
 Sentence Transformers (for vector embeddings)
+
 ChromaDB (vector store)
+
 RecursiveCharacterTextSplitter (for chunking PDF content)
+
 LLAMA 3.2 (running locally via Ollama)
-pdfplumber (for PDF parsing)
+
+pdfplumber (for PDF parsing) 
 Excel-based apprentice mapping for name/email resolution
 
 
